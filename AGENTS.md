@@ -20,7 +20,7 @@
 - Imports go at the beginning of the notebook
 - For vector geoprocessing prefer Geopandas
 - Work in Jupyter Notebooks, but save outputs if asked for
-- For base maps, both static of interactive maps, prefer OSM over other sources that may require an API key.
+- For base maps, both static of interactive maps, prefer Open Street Map (OSM) over other sources that may require an API key.
 
 
 ## 3. How to obtain the data
